@@ -1,1 +1,1 @@
-This app downloads cards with pokemons from server, and shows it in the screen
+Created using the next stack of technologies: BLoC, API(http library).
